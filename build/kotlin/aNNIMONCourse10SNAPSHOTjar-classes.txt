@@ -1,0 +1,1 @@
+/media/i-safronov/0C060F940C060F94/courses/aNNIMON/ProgrammingLanguage/1/build/classes/kotlin/main/MainKt.class:/media/i-safronov/0C060F940C060F94/courses/aNNIMON/ProgrammingLanguage/1/build/classes/kotlin/main/parser/Token.class:/media/i-safronov/0C060F940C060F94/courses/aNNIMON/ProgrammingLanguage/1/build/classes/kotlin/main/parser/TokenType.class
